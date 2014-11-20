@@ -6,6 +6,7 @@
  * 
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
+ //Davila Vazquez Jose Ramon
 using System;
 using MySql.Data.MySqlClient;
 namespace practica5
